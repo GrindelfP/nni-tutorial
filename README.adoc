@@ -1,0 +1,6 @@
+= Neural Numerical Integration Tutuorial =
+
+== Description ==
+This is a tutorial for simple neural network approach to the numerical integration of single variable functions.
+
+The tutorial is made in a form of a Jupyter Notebook.
