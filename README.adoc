@@ -1,6 +1,8 @@
 = Neural Numerical Integration Tutuorial =
 
 == Description ==
-This is a tutorial for simple neural network approach to the numerical integration of single variable functions.
+This is a tutorial for simple neural network approach to the numerical integration of single variable functions. When done with this tutorial you will be able to create a neural network model which will help you integrate a simple 1d functions, for example _f(x) = cos(x)_. In the first part there is the theoretical basis for the tutorial which is greatly derived fron the great article "Using neural networks for fast numerical integration and optimization" by Steffan Lloyd et al.
 
 The tutorial is made in a form of a Jupyter Notebook.
+
+The language of the tutorial: Russian.
